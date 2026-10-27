@@ -1,0 +1,8 @@
+{
+  "name": "room-booking-hackathon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple room booking system built with Express and MongoDB's native driver.",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^5.1.0", "mongodb": "^6.20.0" }
+}
